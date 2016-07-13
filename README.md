@@ -1,7 +1,7 @@
 Ilumina Gulp SpellChecker
 --------------------------
 
-Gulp task for spellchecker.
+`gulp spellchecker`:
 Revisa la ortografía de archivos html en la carpeta destino, por defecto `dist/`.
 Convierte los html en texto. Analiza el texto buscando errores. Agrega sugerencias de escritura. Guarda los textos modificados en `dist-spellchecker/` además de mostrar los posibles errores en la consola.
 
